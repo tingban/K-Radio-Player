@@ -5,7 +5,7 @@
   <groupId>com.kaolafm</groupId>
   <artifactId>kradio-player-sdk</artifactId>
   <version>1.0.1</version>
-  <name>app</name>
+  <name>player</name>
   <description>dependences lib</description>
   <dependencies>
     <dependency>
